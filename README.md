@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @tuomaz
+- 👀 I’m interested in Go, Home Assistant, Java, Websocket, OpenSCAD, 3D printing, MQTT, MongoDB, Postgresql, InfluxDB, Grafana
+- 🌱 I’m currently learning Home Assistant websocket api, Grafana
+- 📫 f r e d r i k dot t u o m a s at g m 4 i | dot c o m
